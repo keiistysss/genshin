@@ -1,3 +1,4 @@
 *.json
 *.docx
 /folder1
+/.vs
